@@ -1,1 +1,4 @@
+framework:
+  type: buildpack
 mem: 256M
+
