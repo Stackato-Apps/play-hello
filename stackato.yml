@@ -1,4 +1,0 @@
-name: play-hello
-framework:
-  type: buildpack
-mem: 256M

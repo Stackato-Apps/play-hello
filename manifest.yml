@@ -1,0 +1,5 @@
+applications:
+- name: play-hello
+  framework:
+    name: buildpack
+  mem: 256M
