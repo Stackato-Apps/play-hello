@@ -1,7 +1,7 @@
 # Play! sample - Hello
 
 
-# Pushing to Stackato
+# Pushing to HPE Helion Stackato
 
     stackato push -n
 
